@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Problema2_EjecutarEmpleado {
 
-    private static Empleado[] empleados = new Empleado[100]; // Puedes ajustar el tamaño
+    private static Empleado[] empleados = new Empleado[100];
     private static int contador = 0;
 
     public static void main(String[] args) {

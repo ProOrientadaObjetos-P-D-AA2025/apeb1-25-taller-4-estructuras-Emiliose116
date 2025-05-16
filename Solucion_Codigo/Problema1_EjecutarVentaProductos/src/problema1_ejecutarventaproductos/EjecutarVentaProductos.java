@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class EjecutarVentaProductos {
     public static void main(String[] args) {
+        
         Scanner tcl = new Scanner(System.in);
 
         System.out.println("Ingrese el precio del producto:");
